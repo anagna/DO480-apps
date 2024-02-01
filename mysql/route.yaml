@@ -7,7 +7,7 @@ metadata:
   name: frontend
   namespace: mysql
 spec:
-#  host: bubugagas
+
   path: "/todo"
   to:
     kind: Service
